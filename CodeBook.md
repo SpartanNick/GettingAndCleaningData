@@ -12,7 +12,9 @@ per Subject, and by Activity.
 
 Note: From `names(mytidydataset)` we get the following variable names.
 Alongside it, a short description is provided.
+
 | Variable/Column Name | Meaning |
+|---|---|
 | "Subject" | Subject ID that gathered the data |
 | "ActivityName" | The activity name for the corresponding measures |
 | timeBodyLinearAcceleration.mean.X | Average value for this variable for this subject and activity|
